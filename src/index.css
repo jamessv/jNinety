@@ -211,3 +211,15 @@ abbr[title] {
   -webkit-text-decoration-skip-ink: none;
   text-decoration-skip-ink: none;
 }
+
+
+address {
+  margin-bottom: 1rem;
+  font-style: normal;
+  line-height: inherit;
+}
+
+ol,
+ul {
+  padding-left: 2rem;
+}
